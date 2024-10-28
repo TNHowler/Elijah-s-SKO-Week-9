@@ -1,3 +1,5 @@
+//GitHub Copilot assisted in writing this code.
+
 var elevator;
 var ellipses = [];
 let InterstateBCFont;
